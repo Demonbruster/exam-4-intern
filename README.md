@@ -1,4 +1,4 @@
-# exam-for-intern
+# Exam for intern
 
 
 ### Project Overview
